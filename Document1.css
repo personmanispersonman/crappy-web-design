@@ -1,0 +1,35 @@
+#🅱 {
+	font-size:50px;
+	animation:spin 4s linear infinite;
+}
+#fortnite {
+	font-family: Comic-Sans MS;
+	color-change 1s infinite;
+}
+h1:hover{
+	font-size:200%;
+}
+body{
+	background-color:black;
+    background-image: url("bepis.jpg");
+    background-repeat: round;
+}
+@keyframes spin { 
+    100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } 
+}
+
+@keyframes color-change {
+    0% { color: red; font-size:12px; }
+    50% { color: blue; font-size:15px; }
+    100% { color: yellow; font-size:18px; }
+}
+
+@keyframes color-change2 {
+    0% { color: red; font-size:12px; }
+    50% { color: orange; font-size:15px; }
+    100% {color:blue; font-size:450px;}
+}
+h1 {
+	color:brown;
+    animation:color-change2 5s infinite;
+}
