@@ -29,7 +29,7 @@ body{
     50% { color: orange; font-size:15px; }
     100% {color:blue; font-size:450px;}
 }
-h1 {
-	color:brown;
+#dab {
+	color:white;
     animation:color-change2 5s infinite;
 }
