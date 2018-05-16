@@ -34,6 +34,3 @@ body{
 	font-family: cursive;
     animation:color-change2 5s infinite;
 }
-video {
-	animation:spin 2s linear infinite;
-}
