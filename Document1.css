@@ -3,8 +3,8 @@
 	animation:spin 4s linear infinite;
 }
 #fortnite {
-	font-family: Comic-Sans MS;
-	color-change 1s infinite;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+        animation: color-change 1s infinite;
 }
 h1:hover{
 	font-size:200%;
