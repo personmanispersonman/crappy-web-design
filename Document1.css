@@ -3,7 +3,7 @@
 	animation:spin 4s linear infinite;
 }
 #fortnite {
-	font-family: cursive;
+	font-family: "Comic Sans MS", cursive, sans-serif;
         animation: color-change 1s infinite;
 }
 h1:hover{
@@ -32,5 +32,5 @@ body{
 #dab {
 	color:white;
     animation:color-change2 5s infinite;
-	font-family:cursive;
+	font-family: "Comic Sans MS", cursive, sans-serif;
 }
