@@ -3,7 +3,7 @@
 	animation:spin 4s linear infinite;
 }
 #despacito {
-	animation: size-change 5s infinite;
+	animation: spin 1s linear infinite;
 }
 #fortnite {
 	font-family: "Comic Sans MS", cursive, sans-serif;
@@ -30,12 +30,12 @@ body{
 @keyframes color-change2 {
     0% { color: red; font-size:12px; }
     50% { color: orange; font-size:15px; }
-    100% {color:blue; font-size:450px;}
+    100% {color: blue; font-size:450px; }
 }
-@keyframes size-change {
-    0% { font-size:12px; }
-    50% { font-size:15px; }
-    100% { font-size:450px;}
+@keyframes color-change3 {
+    0% { color: red; font-size:12px; }
+    50% { color: blue; font-size:15px; }
+    100% {color: yellow; font-size:450px; }
 }
 
 #dab {
